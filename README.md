@@ -7,7 +7,7 @@ An application that consumes a data api about covid in brazil, to study the get 
 This project is a starting point for a Flutter application.
 
 ```
-https://github.com/WashingtonlGarcia/Flutter-COVID_19.git
+https://github.com/WashingtonlGarcia/Flutter-COVID19.git
 ```
 
 ## Contributing
