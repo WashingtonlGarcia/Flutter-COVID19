@@ -1,4 +1,4 @@
-# Flutter-GitHub
+# Flutter-COVID19
 
 An application that consumes a data api about covid in brazil, to study the get pattern.
 
